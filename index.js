@@ -1,1 +1,1 @@
-<script type="text/javascript" src="https://cdn.rawgit.com/relindo/Logistik/23eb3392/kenalan.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/relindo/Logistik@23eb3392/kenalan.js"></script>
